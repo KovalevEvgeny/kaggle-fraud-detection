@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1EQWsDyP7V6K2XOeDGuOhdNIidHqrHC35/view?usp=shari
 
 ## First-layer model aliases
 
-- Models 1-4: `fraud-lgb-kfold-newfeatures`, `fraud-lgb-kfold-newfeatures-seed-44`, `fraud-lgb-kfold-newfeatures-seed-111`, `fraud-lgb-kfold-newfeatures-seed-122`
+- Models 1-4: [`fraud-lgb-kfold-newfeatures`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-lgb-kfold-newfeatures.ipynb), `fraud-lgb-kfold-newfeatures-seed-44`, `fraud-lgb-kfold-newfeatures-seed-111`, `fraud-lgb-kfold-newfeatures-seed-122`
 - Models 5-9: `fraud-dima-940490`, `fraud-dima-942747`, `fraud-dima-943304`, `fraud-dima-943354`, `fraud-dima-944193`
 - Models 10-11: `fraud-artem-new-val-no-day`, `fraud-artem-new-val-seed-99-no-day`
 - Model 12: `fraud-misha-9436`
