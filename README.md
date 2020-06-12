@@ -39,9 +39,9 @@ https://drive.google.com/file/d/1EQWsDyP7V6K2XOeDGuOhdNIidHqrHC35/view?usp=shari
 **Preprocessing:**
 
 - for models 1-4: https://www.kaggle.com/kyakovlev/ieee-fe-with-some-eda
-- for models 17-21: `[fraud-messing-v31`](fraud-messing-v31)
-- additional for model 21: `[fraud-fs-fe9477-no-day-data-preparation`](fraud-fs-fe9477-no-day-data-preparation)
-- for models 24-25: [`fraud-data-for-catboost`](fraud-data-for-catboost)
+- for models 17-21: `[fraud-messing-v31`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/preprocessing/fraud-messing-v31.ipynb)
+- additional for model 21: `[fraud-fs-fe9477-no-day-data-preparation`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/preprocessing/fraud-fs-fe9477-no-day-data-preparation.ipynb)
+- for models 24-25: [`fraud-data-for-catboost`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/preprocessing/fraud-data-for-catboost.ipynb)
 
 
 ## Task description
