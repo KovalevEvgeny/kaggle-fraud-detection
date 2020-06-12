@@ -17,7 +17,7 @@ Model scheme:
 
 https://drive.google.com/file/d/1EQWsDyP7V6K2XOeDGuOhdNIidHqrHC35/view?usp=sharing
 
-![]()
+![](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/FraudDetection_Solution_Scheme.png?raw=true)
 
 ## Task description
 Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably aren’t thinking about the data science that determined your fate.
