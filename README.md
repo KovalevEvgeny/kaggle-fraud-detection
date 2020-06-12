@@ -13,6 +13,8 @@ KUDOS to my teammates:
 
 ## Model description
 
+Throughout the competition, we created various models which used different data preprocessing techniques, sets of hyperparameters and random seeds. For the final solution, we selected 21 LightGBM models and 4 Catboost models. Using LightGBM, we stacked them. Finally, we postprocessed the result.
+
 Model scheme:
 
 https://drive.google.com/file/d/1EQWsDyP7V6K2XOeDGuOhdNIidHqrHC35/view?usp=sharing
