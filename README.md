@@ -23,16 +23,16 @@ https://drive.google.com/file/d/1EQWsDyP7V6K2XOeDGuOhdNIidHqrHC35/view?usp=shari
 
 ## First-layer model aliases
 
-- Models 1-4: [`fraud-lgb-kfold-newfeatures`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-lgb-kfold-newfeatures.ipynb), `fraud-lgb-kfold-newfeatures-seed-44`, `fraud-lgb-kfold-newfeatures-seed-111`, `fraud-lgb-kfold-newfeatures-seed-122`
-- Models 5-9: `fraud-dima-940490`, `fraud-dima-942747`, `fraud-dima-943304`, `fraud-dima-943354`, `fraud-dima-944193`
-- Models 10-11: `fraud-artem-new-val-no-day`, `fraud-artem-new-val-seed-99-no-day`
-- Model 12: `fraud-misha-9436`
-- Models 13-14: `fraud-kirill-predictions-9438`, `fraud-kirill-predictions-9459`
-- Models 15-16: `fraud-mix-lgbm-no-day`, `fraud-mix-lgbm-seed-101-no-day`
-- Models 17-20: `fraud-fs-fe9477-no-day`, `fraud-fs-fe9477-no-day-seed-88`, `fraud-fs-fe9477-no-day-seed-133`, `fraud-fs-fe9477-no-day-seed-144`
-- Model 21: `fraud-fs-fe9477-catboost-no-cat`
-- Models 22-23: `fraud-dima-cb-hope-v1-944414`, `fraud-dima-cb-hope-v2-943496`
-- Models 24-25: `fraud-catboost-dima-943978`, `fraud-dima-944053`
+- Models 1-4: [`fraud-lgb-kfold-newfeatures`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-lgb-kfold-newfeatures.ipynb), [`fraud-lgb-kfold-newfeatures-seed-44`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-lgb-kfold-newfeatures-seed-44.ipynb), [`fraud-lgb-kfold-newfeatures-seed-111`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-lgb-kfold-newfeatures-seed-111.ipynb), [`fraud-lgb-kfold-newfeatures-seed-122`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-lgb-kfold-newfeatures-seed-122.ipynb)
+- Models 5-9: [`fraud-dima-940490`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-dima-940490.ipynb), [`fraud-dima-942747`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-dima-942747.ipynb), [`fraud-dima-943304`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-dima-943304.ipynb), [`fraud-dima-943354`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-dima-943354.ipynb), [`fraud-dima-944193`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-dima-944193.ipynb)
+- Models 10-11: [`fraud-artem-new-val-no-day`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-artem-new-val-no-day.ipynb), [`fraud-artem-new-val-seed-99-no-day`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-artem-new-val-seed-99-no-day.ipynb)
+- Model 12: [`fraud-misha-9436`](https://www.kaggle.com/blackitten13/fraud-misha-9436)
+- Models 13-14: [`fraud-kirill-predictions-9438`](https://www.kaggle.com/blackitten13/fraud-kirill-yakovlev-9438), [`fraud-kirill-predictions-9459`](https://www.kaggle.com/blackitten13/kirill-best-9459)
+- Models 15-16: [`fraud-mix-lgbm-no-day`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-mix-lgbm-no-day.ipynb), [`fraud-mix-lgbm-seed-101-no-day`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-mix-lgbm-seed-101-no-day.ipynb)
+- Models 17-20: [`fraud-fs-fe9477-no-day`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-fs-fe9477-no-day.ipynb), [`fraud-fs-fe9477-no-day-seed-88`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-fs-fe9477-no-day-seed-88.ipynb), [`fraud-fs-fe9477-no-day-seed-133`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-fs-fe9477-no-day-seed-133.ipynb), [`fraud-fs-fe9477-no-day-seed-144`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/ligthgbm_models/fraud-fs-fe9477-no-day-seed-144.ipynb)
+- Model 21: [`fraud-fs-fe9477-catboost-no-cat`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/catboost_models/fraud-fs-fe9477-catboost-no-cat.ipynb)
+- Models 22-23: [`fraud-dima-cb-hope-v1-944414`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/catboost_models/fraud-dima-cb-hope-v1-944414.ipynb), [`fraud-dima-cb-hope-v2-943496`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/catboost_models/fraud-dima-cb-hope-v2-943496.ipynb)
+- Models 24-25: [`fraud-catboost-dima-943978`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/catboost_models/fraud-catboost-dima-943978.ipynb), [`fraud-dima-944053`](https://github.com/blacKitten13/kaggle-fraud-detection/blob/master/catboost_models/fraud-dima-944053.ipynb)
 
 ## Task description
 Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably aren’t thinking about the data science that determined your fate.
